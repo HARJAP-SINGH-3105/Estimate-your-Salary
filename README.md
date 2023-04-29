@@ -60,13 +60,18 @@ Note: Other approach: Checking the performance of model on imputed values of eac
 
 #### Learning:
 -Learn how to deal with missing values and which method to choose
-  <img width="768" alt="image" src="https://user-images.githubusercontent.com/84041223/235300835-91e496de-840d-4c7f-ab69-c9ac1f94d069.png">
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/84041223/235300972-dcc0363c-d6ce-47a2-8c95-6b649c722319.png">
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/84041223/235300981-e0752349-eb64-4735-86fa-9601d292373a.png">
+
+<p>
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/84041223/235300850-649fd535-b539-49f7-82af-02bd85ef5a27.png">
-<img width="393" alt="image" src="https://user-images.githubusercontent.com/84041223/235300881-05b28eae-b8cd-4611-998d-61d6454643dc.png">
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/84041223/235300892-3abf96df-7740-4932-87fb-824b244aacc2.png">
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/84041223/235300901-25169653-2bd6-4f79-82be-db78f230bdcc.png">
-<img width="396" alt="image" src="https://user-images.githubusercontent.com/84041223/235300912-f36e482e-a068-4f2f-8c69-b1ecc00ac4e8.png">
-<img width="385" alt="image" src="https://user-images.githubusercontent.com/84041223/235300926-1b1abeaa-51a1-4b7e-83c5-850509146c4d.png">
+</p>
+<p>
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/84041223/235300881-05b28eae-b8cd-4611-998d-61d6454643dc.png"></p>
+<p><img width="394" alt="image" src="https://user-images.githubusercontent.com/84041223/235300892-3abf96df-7740-4932-87fb-824b244aacc2.png"></p>
+<p><img width="394" alt="image" src="https://user-images.githubusercontent.com/84041223/235300901-25169653-2bd6-4f79-82be-db78f230bdcc.png"></p>
+<p><img width="396" alt="image" src="https://user-images.githubusercontent.com/84041223/235300912-f36e482e-a068-4f2f-8c69-b1ecc00ac4e8.png"></p>
+<p><img width="385" alt="image" src="https://user-images.githubusercontent.com/84041223/235300926-1b1abeaa-51a1-4b7e-83c5-850509146c4d.png"></p>
 
  
 
